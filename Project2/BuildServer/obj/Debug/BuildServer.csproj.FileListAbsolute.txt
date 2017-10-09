@@ -1,0 +1,7 @@
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\BuildServer\bin\Debug\BuildServer.exe.config
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\BuildServer\bin\Debug\BuildServer.exe
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\BuildServer\bin\Debug\BuildServer.pdb
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\BuildServer\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\BuildServer\obj\Debug\BuildServer.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\BuildServer\obj\Debug\BuildServer.exe
+C:\Users\rahul\Google Drive\VisualStudioRepos\CoreBuildServer\BuildServer\obj\Debug\BuildServer.pdb
