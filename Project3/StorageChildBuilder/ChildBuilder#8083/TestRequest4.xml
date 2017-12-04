@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author />
+  <dateTime>10/25/2017 10:42:03 AM</dateTime>
+  <tests>
+    <TestElement>
+      <testName>TestDriver4.cs</testName>
+      <testDriver>TestDriver4.cs</testDriver>
+      <testCodes>
+        <string>TestDriver4TestFile2.cs</string>
+        <string>TestDriver4TestFile1.cs</string>
+      </testCodes>
+    </TestElement>
+  </tests>
+</TestRequest>
