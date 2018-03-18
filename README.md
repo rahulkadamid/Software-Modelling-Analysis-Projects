@@ -6,6 +6,3 @@
 
 ![](images/FederationDesc.PNG)
 
-![](images/main.PNG)
-
-![](images/diag.PNG)
